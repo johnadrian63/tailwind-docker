@@ -4,3 +4,7 @@
 body {
   border: solid 1px red;
 }
+
+.custom-text {
+  color: #0000ff;
+}
